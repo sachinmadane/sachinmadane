@@ -19,7 +19,7 @@ I'm a software developer passionate about building applications, exploring cloud
 
 ## 📫 Connect With Me
 
-LinkedIn:www.linkedin.com/in/sachin-madane-1422b729b
-GitHub: My GitHub Profile
+- **LinkedIn:www.linkedin.com/in/sachin-madane-1422b729b
+- **GitHub: My GitHub Profile
 - ⭐ Thanks for visiting my profile!
 
